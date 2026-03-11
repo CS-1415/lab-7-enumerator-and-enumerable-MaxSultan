@@ -1,0 +1,12 @@
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.AssemblyInfoInputs.cache
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.AssemblyInfo.cs
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.csproj.CoreCompileInputs.cache
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.sourcelink.json
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/bin/Debug/net8.0/Lab06.deps.json
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/bin/Debug/net8.0/Lab06.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/bin/Debug/net8.0/Lab06.pdb
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/refint/Lab06.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/Lab06.pdb
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-6-doubly-linked-list-MaxSultan/Lab06/obj/Debug/net8.0/ref/Lab06.dll

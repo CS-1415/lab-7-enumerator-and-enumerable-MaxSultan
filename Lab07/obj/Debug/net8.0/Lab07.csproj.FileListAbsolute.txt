@@ -1,0 +1,12 @@
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/bin/Debug/net8.0/Lab07.deps.json
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/bin/Debug/net8.0/Lab07.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/bin/Debug/net8.0/Lab07.pdb
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.AssemblyInfoInputs.cache
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.AssemblyInfo.cs
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.csproj.CoreCompileInputs.cache
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.sourcelink.json
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/refint/Lab07.dll
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/Lab07.pdb
+/Users/maxwellsultan/snow_college_programming/OOP-Spring-2026/lab-7-enumerator-and-enumerable-MaxSultan/Lab07/obj/Debug/net8.0/ref/Lab07.dll
